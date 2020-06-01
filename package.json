@@ -3,7 +3,7 @@
     "start": "dumi dev"
   },
   "dependencies": {
-    "dumi": "^1.0.28",
+    "dumi": "1.0.28",
     "typescript": "^3.9.3"
   }
 }
